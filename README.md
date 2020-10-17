@@ -1,6 +1,5 @@
-### Visit this project here: [http://to-do-challenge.herokuapp.com](https://to-do-challenge.herokuapp.com)
-
-#### \*Local storage does not work in private browsing.
+### Conversion of Error Laden Rambda React App into Redux and Redux-Thunk
+#### Apologies for wrong indenting and spacing: my IDE does that when pushing to Git.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
